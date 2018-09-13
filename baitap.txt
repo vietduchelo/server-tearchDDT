@@ -1,0 +1,15 @@
+* Làm full API của một đối tượng mới.
+
+- Nhà hàng.
+ + Thông tin nhà hàng. (Tự define).
+ + Location -> Vị trí nhà hàng (lng, lat).
+
+- Viết các API sau:
+ + API Sách giáo khoa. (5 API gốc.)
+ + API Nâng cao.
+    + Lấy thông tin của 10 nhà hàng gần với nơi mình đứng nhất.
+    -> domain/api/restaurant?lat=123&lng=123
+    + Trả về 1 array gồm tối đa 10 nhà hàng gần nhất (kèm theo distance).
+
+DL: Thứ 2. 
+Thứ 7 báo cáo tiến độ. 
